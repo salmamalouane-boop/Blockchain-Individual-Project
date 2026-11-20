@@ -23,3 +23,6 @@ transaction Bitcoin à travers une expérience pratique.
 L'étude s'appuie sur une expérience pratique réalisée
 sur le réseau Bitcoin TestNet4, en utilisant deux
 wallets distinctes et un explorateur blockchain.
+
+## Project Status
+The project repository is initialized and the practical work documentation is available.
